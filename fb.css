@@ -1,0 +1,153 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 90px;
+}
+body{
+    margin: 0;
+    margin-left: 10;
+    margin-right: 10;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+    
+    }
+.login{
+    width: 50%;
+    float: left;
+    
+}
+.logo-text{
+    color: #fff;
+    font-weight: bold;
+    font-size: 35px;
+    text-decoration: none;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-left: 170px;
+    
+}
+.login-label{
+    color:#fff;
+    font-size: 12px;
+}
+.login-control{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+
+}
+.forgotten{
+    color:#fff;
+    font-size: 11px;
+    text-decoration: none;
+    color:#9cb4d8;
+
+}
+.sub-btn{
+background:#4267b2 ;
+color: #fff;
+height: 20px;
+border-color:#29487d;
+cursor: pointer;
+}
+.sub-btn:hover{
+    background: lightblue;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+.right-section{
+    width: 39%;
+    float: right;
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 500px;
+}
+.image{
+    width: 500px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.easy{
+    font-weight: bold;
+
+}
+.firstname{
+    height: 20px;
+    border-radius: 4px;
+    border-color: #D3D8E8;
+}
+.sname{
+    height: 20px;
+    border-radius: 4px;
+    border-color: #D3D8E8;
+    margin-left: 0;
+
+}
+.m-and-e{
+    height:20px;
+    width: 200px;
+    border-radius: 4px;
+    border-color: #D3D8E8;
+    margin-top: 10px;
+}
+.Password{
+    height:20px;
+    width: 200px;
+    border-radius: 4px; 
+    border-color: #D3D8E8;
+    margin-top: 10px;
+}
+.day{
+    border-color: gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.signup{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 200px;
+    height: 50px;
+    background-color:rgb(17, 153, 17);
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.signup:hover{
+    background-color:green;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+.footer{
+    background: #3b5998;
+    width: 100%;
+    height: 100%;
+    
+}
+.foot1{
+    margin-left: 150px;
+    font-size: 12px;
+    color: #fff;
+    cursor: pointer;
+    }
+.hr{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.foot2{
+    font-size: 12px;
+    color: #fff;
+    margin-left: 150px;
+    cursor: pointer;
+}
